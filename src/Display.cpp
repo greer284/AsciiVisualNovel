@@ -27,7 +27,7 @@ void Display::display(Message msg)
 	{
 		std::cout << msg.artwork
 			<< std::string(MAX_WIDTH, '=') << "\n\n";
-		system("pause");
+		std::cin.get();
 	}
 	// Neither text nor art were supplied
 	else
@@ -70,6 +70,7 @@ void Display::print_messages(Message msg, bool centerText)
 		std::this_thread::sleep_for(std::chrono::milliseconds(msg.delayMs));
 
 		crawl_text(wrappedText, msg.crawlDelayMlt);
+		std::cin.get();
 	}
 }
 
@@ -99,11 +100,6 @@ void Display::crawl_text(std::string message, float crawlSpeed)
 		if(c == '.' || c == ',' || c == '?' || c == '!')
 			std::this_thread::sleep_for(std::chrono::milliseconds(tempDelayMs * 2));
 	}
-	if (kbhitBool)
-		termUtils.kbhit();
-
-	if (!isInput)
-		termUtils.kbhit();
 
 	std::cout << std::endl;
 }
