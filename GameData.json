@@ -1,0 +1,664 @@
+[
+  {
+    "artwork": "TitleScreen.txt",
+    "name": "",
+    "messages": [
+    ],
+    "delayMs": 0,
+    "crawlDelayMlt": 1.0,
+    "branchIndexes": [
+    ]
+  },
+  {
+    "artwork": "@.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Shit, I'm broke, so unfathomably broke.",
+      "So broke that if I kept using the word broke it'd lose all meaning.",
+      "Broke."
+    ]
+  },
+  {
+    "artwork": "@.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Boak.",
+      "..."
+    ]
+  },
+  {
+    "messages": [
+      "Seconds later"
+    ],
+    "crawlDelayMlt": 2.0
+  },
+  {
+    "artwork": "$.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Statistically speaking rich people tend to have a lot of money,",
+      "If only there was some way in which I could steal from or get rich people to fund me..."
+    ]
+  },
+  {
+    "artwork": "!.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Eureka!"
+    ],
+    "delayMs": 600,
+    "crawlDelayMlt": 0.75
+  },
+  {
+    "artwork": "Title.txt"
+  },
+  {
+    "artwork": "Phone.txt",
+    "name": "Charlotte",
+    "messages": [
+      "How do you do this though?",
+      "Alright okay, time to search this one up.",
+      "Aaaaand they cut off my Wi-Fi. God, damn it.",
+      "Right, Jim Norton's free Wi-Fi it is."
+    ]
+  },
+  {
+    "messages": [
+      "A twenty-minute walk later..."
+    ],
+    "crawlDelayMlt": 2.0
+  },
+  {
+    "artwork": "JimNortons.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Alright, so, the web's saying: Be secure in yourself, super confident, be hard to get, frequent rich people areas, always look good, and be honest."
+    ]
+  },
+    {
+    "artwork": "JimNortons.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Wow, there's a lot more to this than I thought.",
+      "It's basically a full time job being a trophy wife, sounds brutal selling yourself out to a shitty guy actually,", 
+      "at least the pay's good."
+    ]
+  },
+  {
+    "artwork": "JimNortons.txt",
+    "name": "Charlotte",
+    "messages": [
+      "I don't think I can hack it actually, I'm like the complete opposite of that.",
+      "Not to mention the safety aspect to it, geez."
+    ],
+    "crawlDelayMlt": 0.7,
+    "delayMs": 600
+  },
+  {
+    "artwork": "Wallet.txt",
+    "messages": [
+      "*She looks down at her purse, opens it, and a fly flies out*"
+    ]
+  },
+  {
+    "artwork": "Wallet.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Guess I have no choice then."
+    ]
+  },
+  {
+    "messages": [
+      "Some time later, late, in a rich-people-area bar..."
+    ],
+    "crawlDelayMlt": 2.0
+  },
+  {
+    "artwork": "RichBar2.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Oh god what am I doing I hate this I hate life. Haven't even paid for a drink yet I hope they don't throw me out."
+    ],
+    "crawlDelayMlt": 0.5
+  },
+  {
+    "artwork": "RichBar3.txt",
+    "messages": [
+      "I was able to snag a cocktail glass, ask for water, pour the water into the cocktail glass along with some food colouring to make it look like I'm drinking something fancy. I'm too sober for this shit."
+    ]
+  },
+  {
+    "artwork": "Richness.txt",
+    "messages": [
+      "The bar's quite busy, I can see a bunch of people in suits, business casual, some with their sweaters tied around their neck. The type of person that's definitly played polo earlier today."
+    ]
+  },
+  {
+    "artwork": "RichBar3.txt",
+    "messages": [
+      "Some time passes, nobody's approached me."
+    ]
+  },
+  {
+    "artwork": "RichBar3.txt",
+    "name": "Charlotte",
+    "messages": [
+      "I'm going to the smoking area, fuck this, fuck everything..."
+    ],
+    "delayMs": 500
+  },
+  {
+    "messages": [
+      "Smoking area..."
+    ],
+    "crawlDelayMlt": 4.0
+  },
+  {
+    "artwork": "Smoking1.txt",
+    "messages": [
+      "I light up. Richmond's."
+    ]
+  },
+  {
+    "artwork": "Smoking1.txt",
+    "messages": [
+      "What even are the other options? Can't live with family since I was kicked out. Can't live off minimum wage with medical bills, prostitution isn't safe, and suicide doesn't sound particularly fun either.",
+      "Could maybe sell my spare organs..."
+    ]
+  },
+  {
+    "artwork": "Smoking2.txt",
+    "name": "Guy",
+    "messages": [
+      "Heyyyyy what's good bbg xoxox"
+    ]
+  },
+  {
+    "artwork": "Smoking2.txt",
+    "messages": [
+      "He was a young rich man who looked and acted like a Labrador. Slightly drunk, but low-key a bit of Himbo."
+    ]
+  },
+  {
+    "artwork": "Smoking3.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Ew, kill yourself x.",
+      "(Am I doing this right?)"
+    ]
+  },
+  {
+    "messages": [
+      "He just looked kind of upset."
+    ],
+    "delayMs": 500
+  },
+  {
+    "artwork": "Smoking4.txt",
+    "name": "Guy",
+    "messages": [
+      "Umm, maybe, (he sniffed, trying to hold back a slow forming tear), I could buy you a drink?"
+    ]
+  },
+  {
+    "messages": [
+      "Jackpot"
+    ],
+    "delayMs": 500,
+    "crawlDelayMlt": 0.6
+  },
+  {
+    "artwork": "Smoking3.txt",
+    "name": "Charlotte",
+    "messages": [
+      "You're not even going to ask my name?"
+    ]
+  },
+  {
+    "artwork": "Smoking4.txt",
+    "name": "Guy",
+    "messages": [
+      "My name's Quentin."
+    ]
+  },
+  {
+    "artwork": "Smoking3.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Charlotte."
+    ],
+    "crawlDelayMlt": 0.75,
+    "delayMs": 750
+  },
+  {
+    "artwork": "Smoking2.txt",
+    "messages": [
+      "Fucking Quentin?!"
+    ],
+    "delayMs": 250
+  },
+  {
+    "artwork": "RichBar.txt",
+    "messages": [
+      "We walk to the bar, he pays for my drink, a bramble, and we chat. He goes on something or other about this business his father gave him, I high-key wasn't listening to all that."
+    ]
+  },
+  {
+    "artwork": "RichBar.txt",
+    "messages": [
+      "He mentioned something about fast cars and champagne, I complimented him on his watch, a Tag Heute."
+    ]
+  },
+  {
+    "artwork": "RichBar.txt",
+    "messages": [
+      "I felt kind of bad manipulating this naive puppy of a man, although just enough of me despised his entitlement and was envious of his easy life that I didn't feel too bad."
+    ]
+  },
+  {
+    "messages": [
+      "Some weeks later..."
+    ],
+    "crawlDelayMlt": 2.0
+  },
+  {
+    "artwork": "Blank.txt",
+    "messages": [
+      "Guess I'm pregnant now.",
+      "Just kidding, I can't do that."
+    ],
+    "crawlDelayMlt": 0.6
+  },
+  {
+    "artwork": "House.txt",
+    "messages": [
+      "Living at this guys house isn't too bad, it's quite spacious and there's always food. They even have a cleaner! He won't buy me much yet, even if I try to push it. I thought that was like a big part of all this but I guess not.",
+      "He's a bit pathetic sometimes, but harmless. Guess my judgement was right."
+    ]
+  },
+  {
+    "messages": [
+      "More time later..."
+    ],
+    "crawlDelayMlt": 2.0
+  },
+  {
+    "artwork": "House2.txt",
+    "messages": [
+      "After several years of this carry-on I'd gotten enough money to prop myself up again. I do feel for the guy, one of his parents passed away which is why he had gotten the company and money, but I do not want to be his stay at home wife."
+    ]
+  },
+  {
+    "artwork": "Debt.txt",
+    "messages": [
+      "I needed something to leave him over. So I start rummaging around his stuff while he was away one day.",
+      "Turns out it's all a front, his wealth and the business. He's in as much debt as I was, maybe even more."
+    ]
+  },
+  {
+    "messages": [
+      "... Do I leave this guy?",
+      "0: Bourgeois scum, leave him to his fate.",
+      "1: Nah, I know what its like."
+    ],
+    "branchIndexes": [
+      43,
+      59
+    ]
+  },
+  {
+    "artwork": "Room.txt",
+    "messages": [
+      "I waited until he got home and held up the papers."
+    ]
+  },
+  {
+    "artwork": "Argument1.txt",
+    "name": "Charlotte",
+    "messages": [
+      "What the eff is this meant to be?"
+    ],
+    "crawlDelayMlt": 0.65,
+    "delayMs": 750
+  },
+  {
+    "artwork": "Argument2.txt",
+    "name": "Quentin",
+    "messages": [
+      "What?", 
+      "Ohh yeahhhhh, that."
+    ],
+    "crawlDelayMlt": 1.5,
+    "delayMs": 500
+  },
+  {
+    "artwork": "Company.txt",
+    "name": "Quentin",
+    "messages": [
+      "Ehh, I can just sell it. Never really liked the company any ways.",
+      "Dad was always forcing me learn how to run it before he passed. Selling shoes just isn't my thing, but he wouldn't have it."
+    ]
+  },
+  {
+    "artwork": "Blank.txt",
+    "messages": [
+      "(Wait... it's a shoe company?)"
+    ],
+    "crawlDelayMlt": 1.25
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "What about the workers?"
+    ],
+    "crawlDelayMlt": 0.65
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "Oh, yeah, those people.",
+      "Uhh, they can find somewhere else I guess. They should know by now this was inevitable."
+    ],
+    "crawlDelayMlt": 1.25
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "You haven't told them?"
+    ]
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "Umm..... No?"
+    ],
+    "crawlDelayMlt": 1.35
+  },
+  {
+    "artwork": "Argument3.txt",
+    "name": "Quentin",
+    "messages": [
+      "pleasedonthurtme."
+    ],
+    "crawlDelayMlt": 0.5
+  },
+  {
+    "messages": [
+      "I throw the papers at him, and start breaking the shit out of the house. I grab the nearest vase and smash it on the floor. He winces and folds into himself.",
+      "In the kitchen I grab the Special C (pretty expensive if I recall) and pour it all over the floor.",
+      "'Oops...'",
+      "I find a rolling pin, and throw it at the kitchen TV. It smashes to pieces. I grab several knives and forks from the cutlery drawer, stuff them in the microwave, and turn it on.",
+      "I grab the tablecloth and yank downwards. The table items remain untouched.",
+      "This vexes me...",
+      "I run up to him, stare at him for two seconds, he cries and pisses himself, the microwave bursts into flames, I realise what I've done, it's based. I defecate on the floor, then storm out the door."
+    ],
+    "crawlDelayMlt": 0.65
+  },
+  {
+    "artwork": "Finger.txt",
+    "name": "Charlotte",
+    "messages": [
+      "You'll see me no more, you bore!"
+    ],
+    "crawlDelayMlt": 0.75
+  },
+  {
+    "artwork": "Fingers.txt",
+    "name": "Quentin",
+    "messages": [
+      "You whore!"
+    ],
+    "crawlDelayMlt": 0.6,
+    "delayMs": 750
+  },
+  {
+    "messages": [
+      "I run back into the smoking building, and drop-kick him in the gut before making my second exit."
+    ],
+    "crawlDelayMlt": 0.35
+  },
+  {
+    "artwork": "HouseFire.txt",
+    "name": "Charlotte",
+    "messages": [
+      "...This is all a bit extreme."
+    ],
+    "crawlDelayMlt": 1.5,
+    "delayMs": 750
+  },
+  {
+    "artwork": "HouseFire2.txt",
+    "name": "Quentin",
+    "messages": [
+      "(Stumbling out his fuming abode, wearily) Yeah, what gives?"
+    ],
+    "branchIndexes": [
+      86
+    ]
+  },
+  {
+    "artwork": "Room.txt",
+    "messages": [
+      "I waited until he got home."
+    ]
+  },
+  {
+    "artwork": "Argument1.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Hey guy, I found this."
+    ]
+  },
+  {
+    "artwork": "Pass3.txt",
+    "messages": [
+      "I show him the papers."
+    ]
+  },
+  {
+    "artwork": "Convo1.txt",
+    "name": "Quentin",
+    "messages": [
+      "Yeah... It's not looking good."
+    ],
+    "crawlDelayMlt": 0.75,
+    "delayMs": 250
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "...What're you gonna do?"
+    ]
+  },
+  {
+    "artwork": "Convo2.txt",
+    "name": "Quentin",
+    "messages": [
+      "I'm going to have to sell the company."
+    ],
+    "delayMs": 500
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "Makes sense."
+    ]
+  },
+  {
+    "artwork": "Convo5.txt",
+    "name": "Quentin",
+    "messages": [
+      "...and the house."
+    ],
+    "crawlDelayMlt": 0.75,
+    "delayMs": 250
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "You're telling me you didn't see this coming?"
+    ]
+  },
+  {
+    "artwork": "Company.txt",
+    "name": "Quentin",
+    "messages": [
+      "Nope. Should've sold it when I got it but I'd never have heard the end of it since it was inherited from my fathers passing. Never was into shoes any ways, no matter how much he tried to make me."
+    ]
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "Didn't I tell you all this before?"
+    ],
+    "crawlDelayMlt": 0.65
+  },
+  {
+    "artwork": "Convo3.txt",
+    "name": "Charlotte",
+    "messages": [
+      "No, wait, maybe, but umm, the bar was very loud :)",
+      "and I didn't hear that part :)"
+    ],
+    "crawlDelayMlt": 1.0
+  },
+  {
+    "artwork": "Convo4.txt",
+    "name": "Quentin",
+    "messages": [
+      "Oh ok."
+    ]
+  },
+  {
+    "artwork": "Convo5.txt",
+    "name": "Quentin",
+    "messages": [
+      "It's actually been this way a while, that night I was actually looking for someone rich I could marry into and be sorted."
+    ]
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "You didn't do a very good job."
+    ]
+  },
+  {
+    "artwork": "Convo5.txt",
+    "name": "Quentin",
+    "messages": [
+      "...Evidently."
+    ],
+    "crawlDelayMlt": 0.75
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Charlotte",
+    "messages": [
+      "As if you're any better."
+    ],
+    "crawlDelayMlt": 0.5
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "..."
+    ]
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "What about the employees?"
+    ],
+    "delayMs": 1000
+  },
+  {
+    "artwork": "Argument6.txt",
+    "name": "Quentin",
+    "messages": [
+      "Eeeee...."
+    ],
+    "crawlDelayMlt": 1.5
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "...yikes."
+    ],
+    "crawlDelayMlt": 0.65
+  },
+  {
+    "artwork": "Convo5.txt",
+    "name": "Quentin",
+    "messages": [
+      "Yeah."
+    ],
+    "crawlDelayMlt": 0.65,
+    "delayMs": 250
+  },
+  {
+    "artwork": "Convo1.txt",
+    "name": "Quentin",
+    "messages": [
+      "Uhh."
+    ],
+    "crawlDelayMlt": 1.5
+  },
+  {
+    "artwork": "Convo2.txt",
+    "name": "Quentin",
+    "messages": [
+      "I don't really know what to do.",
+      "If I'd married rich I could've probably turned things around, start winding things down, give them time to find new jobs and stuff, and reinvest."
+    ]
+  },
+  {
+    "artwork": "Argument5.txt",
+    "name": "Quentin",
+    "messages": [
+      "I don't know if I can do that now."
+    ],
+    "delayMs": 250
+  },
+  {
+    "artwork": "Argument4.txt",
+    "name": "Charlotte",
+    "messages": [
+      "So when'd you realise I was broke?"
+    ]
+  },
+  {
+    "artwork": "Convo2.txt",
+    "name": "Quentin",
+    "messages": [
+      "Now."
+    ],
+    "crawlDelayMlt": 0.75,
+    "delayMs": 500
+  },
+  {
+    "messages": [
+      "THE END."
+    ],
+    "crawlDelayMlt": 5.0
+  },
+  {
+    "messages": [ "Thanks for playing!", "0: Start over", "1: Credits", "2: Quit Game" ],
+    "branchIndexes": [ 1, 88, -1 ]
+  },
+  {
+    "messages": [ "Made by Hollie Greer", "Special Thanks: Hideo Kojima" ],
+    "branchIndexes": [ 87 ]
+  }
+]
