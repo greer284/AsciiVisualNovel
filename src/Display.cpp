@@ -25,8 +25,7 @@ void Display::display(Message msg)
 	// If messages are empty display the artwork only
 	else if (hasArt && !hasText)
 	{
-		std::cout << msg.artwork
-			<< std::string(MAX_WIDTH, '=') << "\n\n";
+		std::cout << msg.artwork;
 		std::cin.get();
 	}
 	// Neither text nor art were supplied

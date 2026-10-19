@@ -28,9 +28,9 @@ public:
 				this->maxWidth = width;
 		}
 
-		if (!settingsData["MAX_CONSOLE_HIGHT"].is_null())
+		if (!settingsData["MAX_CONSOLE_HEIGHT"].is_null())
 		{
-			int height = settingsData["MAX_CONSOLE_HIGHT"];
+			int height = settingsData["MAX_CONSOLE_HEIGHT"];
 
 			if(height > maxHeight)
 				this->maxHeight = height;

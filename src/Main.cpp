@@ -14,12 +14,17 @@ int main() {
 	Display disp = Display(db.get_max_width(), db.get_max_height(), db.get_crawl_delay());
 
 	int textAreaSize = 6;
-	int maxArtSize = db.get_max_height() - textAreaSize;
 
 	size_t i = 0;
 	while (i >= 0 && i < db.gameData.size())
 	{
 		Message currentMessage = Message(db.gameData[i]);
+		bool hasText = !currentMessage.messages.empty();
+
+		int maxArtSize = db.get_max_height();
+		if (hasText) {
+			maxArtSize -= textAreaSize;
+		}
 		currentMessage.artwork = db.load_art_file(currentMessage.artwork, maxArtSize);
 
 		disp.display(currentMessage);
