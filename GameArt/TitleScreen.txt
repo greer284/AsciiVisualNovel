@@ -1,23 +1,22 @@
-           Apparrently this is the min height
+M           Min Default height for messages                                    M
+i                                                                              a
+n                                                                              x
+
+d                                                                              d
+e                                                                              e
+f                                                                              f
+a                                                                              a
+u                                                                              u
+l                                                                              l
+t                                                                              t
+
+w                                                                              w 
+i                                                                              i
+d                                                                              d
+t                                                                              t
+h                                                                              h
+           Max Default height for art with text
 
 
 
-
-
-
-
-
-
-
-aaa
-
-
-
-
-
-
-
-
-
-
-           Apparrently this is the max height
+           Max Default height for art on its own
